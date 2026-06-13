@@ -8,4 +8,4 @@
 - VS Code
 
 ## Author
-[Your Name] — SKILL.SCH Cloud Lab
+Suliat — SKILL.SCH Cloud Lab
